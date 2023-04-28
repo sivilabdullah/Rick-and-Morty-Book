@@ -57,6 +57,6 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
             destinationVC.selected = chosenCharacters
         }
     }
-
+   
 }
 
